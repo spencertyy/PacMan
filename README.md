@@ -1,5 +1,5 @@
 # Pacman Game (C++ / SFML)
-
+![Gameplay](assets/gameplay.gif)
 A desktop-based Pacman game implemented in **C++** using **SFML**, focusing on real-time rendering, keyboard input handling, and modular game logic design.
 
 This project demonstrates core game development concepts including collision detection, game loops, state management, and object-oriented design.
