@@ -29,3 +29,7 @@ DerivedData/
 
 # Archives
 *.zip
+
+# Project-specific build / IDE folders
+Pacman_/build/
+Pacman_/xcode/
